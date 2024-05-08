@@ -55,13 +55,6 @@
       "url": "https://github.com/Sirox228/linc_luajit"
     },
     {
-      "name": "extension-androidtools",
-      "type": "git",
-      "dir": null,
-      "ref": "master",
-      "url": "https://github.com/MAJigsaw77/extension-androidtools.git"
-    },
-    {
       "name": "openfl",
       "type": "haxelib",
       "version": "9.2.2"
