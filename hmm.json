@@ -8,6 +8,11 @@
       "url": "https://github.com/Aidan63/linc_discord-rpc"
     },
     {
+      "name": "flixel",
+      "type": "haxelib",
+      "version": "5.3.1"
+    },
+    {
       "name": "flixel-addons",
       "type": "haxelib",
       "version": "3.1.1"
@@ -54,10 +59,18 @@
       "ref": "master",
       "url": "https://github.com/Sirox228/linc_luajit"
     },
+    
     {
       "name": "openfl",
       "type": "haxelib",
       "version": "9.2.2"
+    },
+    {
+      "name": "extension-androidtools",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/MAJigsaw77/extension-androidtools.git"
     }
   ]
 }
