@@ -65,7 +65,7 @@
 	<define name="DO_AUTO_UPDATE" if="desktop || android" unless="debug || tgt final"/>
     <!-- _______________________________ Libraries ______________________________ -->
 
-	<haxelib name="flixel"/>
+	<haxelib name="flixel" version="5.3.1"/>
 	<haxelib name="flixel-ui" version="2.5.0"/>
 	<haxelib name="flixel-addons" version="3.1.1"/>
 
