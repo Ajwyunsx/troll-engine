@@ -48,6 +48,7 @@ jobs:
       - name: Install Haxelib
         run: |
           haxelib setup ~/haxelib
+          haxelib install hxcpp > /dev/null
           haxelib install hmm --quiet
           haxelib run hmm install --quiet
           haxelib list
