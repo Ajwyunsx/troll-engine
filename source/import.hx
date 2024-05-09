@@ -13,3 +13,6 @@ import SongSelectState as StoryMenuState;
 #end
 
 #end
+#if android
+import flixel.FlxG;
+#end
