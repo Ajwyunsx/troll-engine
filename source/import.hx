@@ -1,5 +1,6 @@
 #if !macro
 import flixel.*;
+import flixel.FlxG;
 import flixel.sound.FlxSound;
 
 #if tgt
@@ -12,7 +13,4 @@ import SongSelectState as FreeplayState;
 import SongSelectState as StoryMenuState;
 #end
 
-#end
-#if android
-import flixel.FlxG;
 #end
