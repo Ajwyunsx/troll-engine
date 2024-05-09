@@ -8,10 +8,10 @@ import tgt.*;
 import SongSelectState as FreeplayState;
 import SongSelectState as StoryMenuState;
 #end
+import flixel.FlxG;
 
 //import flixel.*;
 import flixel.sound.FlxSound;
-import flixel.FlxG;
 import flixel.FlxBasic;
 import flixel.FlxState;
 import flixel.FlxObject;
