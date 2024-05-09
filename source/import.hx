@@ -8,6 +8,9 @@ import tgt.*;
 import SongSelectState as FreeplayState;
 import SongSelectState as StoryMenuState;
 #end
+import flixel.*;
+import flixel.sound.FlxSound;
+  /*
 import flixel.FlxG;
 
 //import flixel.*;
@@ -29,4 +32,5 @@ import flixel.tweens.FlxTween;
 import flixel.group.FlxSpriteGroup;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.addons.transition.FlxTransitionableState;
+*/
 #end
