@@ -1,4 +1,5 @@
 package animateatlas;
+
 import flixel.util.FlxDestroyUtil;
 import openfl.geom.Rectangle;
 import flixel.math.FlxPoint;
@@ -16,7 +17,9 @@ import flixel.graphics.frames.FlxFrame;
 #if desktop
 import sys.FileSystem;
 import sys.io.File;
-#else
+#end
+	
+#if !desktop
 import js.html.FileSystem;
 import js.html.File;
 #end
