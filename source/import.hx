@@ -14,3 +14,6 @@ import SongSelectState as StoryMenuState;
 #end
 
 #end
+import flixel.*;
+import flixel.FlxG;
+import flixel.sound.FlxSound;
