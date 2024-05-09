@@ -9,10 +9,10 @@ import SongSelectState as FreeplayState;
 import SongSelectState as StoryMenuState;
 #end
 
-import flixel.*;
+//import flixel.*;
 import flixel.sound.FlxSound;
 import flixel.FlxG;
-//import flixel.FlxState‎;
+import flixel.FlxState;
 import flixel.FlxSprite;
 import flixel.FlxCamera;
 import flixel.util.FlxDestroyUtil;
