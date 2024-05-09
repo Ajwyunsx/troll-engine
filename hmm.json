@@ -40,7 +40,7 @@
     {
       "name": "hxcpp",
       "type": "haxelib",
-      "version": null
+      "version": "4.2.1"
     },
     {
       "name": "hxcpp-debug-server",
@@ -50,7 +50,7 @@
     {
       "name": "lime",
       "type": "haxelib",
-      "version": null
+      "version": "8.0.1"
     },
     {
       "name": "linc_luajit",
