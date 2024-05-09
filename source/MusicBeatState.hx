@@ -4,6 +4,7 @@ import haxe.io.Path;
 import flixel.addons.transition.FlxTransitionableState;
 import flixel.addons.ui.FlxUIState;
 import flixel.FlxG;
+import flixel.FlxState‎;
 import openfl.media.Sound;
 import openfl.ui.Mouse;
 import openfl.ui.MouseCursor;
