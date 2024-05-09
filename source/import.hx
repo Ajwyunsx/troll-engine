@@ -1,3 +1,4 @@
+#if !macro
 #if tgt
 import tgt.MainMenuState;
 import tgt.FreeplayState;
@@ -10,3 +11,4 @@ import SongSelectState as StoryMenuState;
 import flixel.*;
 import flixel.FlxG;
 import flixel.sound.FlxSound;
+#end
