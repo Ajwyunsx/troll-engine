@@ -14,6 +14,7 @@ import flixel.sound.FlxSound;
 import flixel.FlxG;
 import flixel.FlxBasic;
 import flixel.FlxState;
+import flixel.FlxObject;
 import flixel.FlxSubState;
 import flixel.FlxSprite;
 import flixel.FlxCamera;
