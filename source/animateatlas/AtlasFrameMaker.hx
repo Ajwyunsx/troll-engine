@@ -19,7 +19,7 @@ import sys.FileSystem;
 import sys.io.File;
 #end
 	
-#if android
+#if js
 import js.html.FileSystem;
 import js.html.File;
 #end
