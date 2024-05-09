@@ -8,7 +8,7 @@ import tgt.*;
 import SongSelectState as FreeplayState;
 import SongSelectState as StoryMenuState;
 #end
-#if android && desktop
+#if android || desktop
 import flixel.*;
 import flixel.sound.FlxSound;
 
