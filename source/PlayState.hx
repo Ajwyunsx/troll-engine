@@ -10,7 +10,6 @@ import hud.*;
 import playfields.*;
 import modchart.*;
 import scripts.*;
-import scripts.FunkinLua;
 import editors.*;
 
 import flixel.*;
