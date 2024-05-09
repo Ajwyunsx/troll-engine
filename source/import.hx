@@ -13,6 +13,7 @@ import SongSelectState as StoryMenuState;
 import flixel.sound.FlxSound;
 import flixel.FlxG;
 import flixel.FlxState;
+import flixel.FlxSubState;
 import flixel.FlxSprite;
 import flixel.FlxCamera;
 import flixel.util.FlxDestroyUtil;
